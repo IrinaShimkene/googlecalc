@@ -1,5 +1,6 @@
 # googlecalc
 Тесты писались запускались через IDE PyCharm. 
+ui_tests - файл с тестами, 
 Для запуска тестов необходимо:
 - установить библиотеки из файла requirements.txt, набрав в терминале pip install -r requirements.txt
 - тесты написаны для Chrome браузера, версия для Chrome 110. лежит в папке. Если у вас версия отличается, установите драйвер отсюда: https://chromedriver.chromium.org/downloads
